@@ -38,8 +38,8 @@ Built a comprehensive data analysis solution in Excel to analyze Blinkit’s ope
 ![Blinkit customer feedback dashboard](https://github.com/user-attachments/assets/7521f2f9-b3b1-44ba-a699-26ab4d98f0b1)
 
 # Created by :
-Varun Raj
+Varun Raj [My LinkedIn Profile](https://www.linkedin.com/in/varun-raj-bokaro/) ||
 [Navigate through the live Dashboard](https://www.novypro.com/project/blinkit-dashboard-13)
 
-[My LinkedIn Profile](https://www.linkedin.com/in/varun-raj-bokaro/)
+
 
