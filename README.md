@@ -1,6 +1,8 @@
 # Blinkit-Dashboard
 Built a comprehensive data analysis solution in Excel to analyze Blinkit’s operations across Orders, Marketing, and Customer Feedback. Integrated multiple datasets, cleaned &amp; transformed data, and designed interactive dashboards to enable data-driven decision-making.
 
+Explore the live Blinkit Dashboard in Excel : https://www.novypro.com/project/blinkit-dashboard-13
+
 # Key Features
 
 * Blinkit Orders Dashboard: Tracks sales trends, order volumes, delivery patterns, and category-wise performance.
